@@ -3,7 +3,7 @@
 	- Managérial
 	- Techniques
 # Expériences
-	## Voyages-SNCF: sept 2017- juil 2018
+## Voyages-SNCF: sept 2017- juil 2018
 		- Intitulé : Ingénieur Etudes & Développement (Marketing-Data)
 		- Mission
 			- Outils de support Data (alerting, intégration continue)
@@ -13,7 +13,7 @@
 			- Cloud (AWS), MicroSevices ,CI/CD (Jenkins, Docker), Infra interne
 			- Langages: PHP, JS, Scala, Groovy
 			- Framework: Symfony (2.8/3), NodeJS, Gatling
-	## Rue du Commerce (Carrefour): Déc 2016- sept 2017
+## Rue du Commerce (Carrefour): Déc 2016- sept 2017
 		- Intitulé : Ingénieur Etudes & Développement (E-commerce, mobile)
 		- Mission
 			- Front-End : tunnel d'achat
@@ -21,7 +21,7 @@
 		- Environnement
 			- Langage: Symfony, JS
 			- Framework: React
-	## France Télévision: Fév 2016- Déc 2016 
+## France Télévision: Fév 2016- Déc 2016 
 		- Intitulé : Ingénieur Etudes & Développement (Social-Média)
 		- Mission
 			- Social Média realtime
