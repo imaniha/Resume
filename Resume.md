@@ -3,6 +3,7 @@
 	- Gestion de projet : Spécification fonctionnelle, Architecture technique, Réalisation, Tests, Validation
 	- Data : Extraction de données, Mise en forme graphique, Implémentation Algo
 	- DevOps : Mise en place infrastructure clustérisée Cloud, Intégration/Déploiement continue, Monitoring, outils de support
+	- Architecture : MicroService, Cloud, Cluster
 #Expériences
 ## Voyages-SNCF: sept 2017- juil 2018
 		- Intitulé : Ingénieur Etudes & Développement (Marketing-Data)
@@ -10,10 +11,12 @@
 			- Outils de support Data (alerting)
 			- Tag Manager
 			- Outils d'exploration de données analytiques
+			- Outils de tracking web
 		- Environnement
-			- Cloud (AWS), MicroSevices ,CI/CD (Jenkins, Docker), Infra interne
+			- Cloud (AWS), MicroSevices ,CI/CD (Jenkins, Docker), Infra interne, Kubernetes, Docker
 			- Langages: PHP, JS, Scala, Groovy
-			- Framework: Symfony (2.8/3), NodeJS, Gatling
+			- Framework: Symfony (2.8/3), NodeJS, Gatling, React
+
 ## Rue du Commerce (Carrefour): Déc 2016- sept 2017
 		- Intitulé : Ingénieur Etudes & Développement (E-commerce, mobile)
 		- Mission
@@ -22,10 +25,12 @@
 		- Environnement
 			- Langage: Symfony, JS
 			- Framework: React
+
 ## France Télévision: Fév 2016- Déc 2016 
 		- Intitulé : Ingénieur Etudes & Développement (Social-Média)
 		- Mission
-			- Social Média realtime
+			- Social Média realtime pipeline
+			- Outils de gestion des flux média. (Tweet, FaceBook msg)
 		- Environnement
 			- Langage: PHP, JS
 			- Framework: Symfony (2.8/3), Angular(2.0)
@@ -36,8 +41,9 @@
 			- BackEnd: API mobile
 			- Data
 		- Environnement
-			- Langage: PHP, JS, F#, R
+			- Langage: PHP, JS, F#
 			- Framework: Symfony (2.8)
+
 ## VideDressing: Sept 2014-Juin 2015 
 		- Intitulé : Ingénieur Etudes & Développement (E-commerce, mobile)
 		- Mission
@@ -46,14 +52,16 @@
 		- Environnement
 			- langage: php, js
 			- framework: symfony (2.8)
+
 ## CPAM:  Fév 2014-Sept 2014 
 		- Intitulé : Ingénieur Etudes & Développement (Data)
 		- Mission
 			- BackEnd : Data  
 		- Environnement
-			- Langage : Java, JS, Python, R
+			- Langage : Java, JS, Python
 			- Framework : Angular (1.2)
-			- PlateForm : Kittle
+			- PlateForm : Kettle
+
 ## O2I: juil 2007-jan 2014 
 		- Intitulé : Ingénieur Etudes & Développement (Industrie Graphique, Média)
 		- Mission
@@ -62,6 +70,7 @@
 		- Environnement
 			- Language : C++, Java, PHP, JS
 			- PlateForm : VMWare (ESX)
+
 ## PC-VIP services: sept 2002-juin 2007
 		- Intitulé : Résponsable Technique (Startup)
 		- Mission
