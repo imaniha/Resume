@@ -29,7 +29,7 @@
 			- Langage: PHP, JS
 			- Framework: Symfony (2.8/3), Angular(2.0)
 			
-	## L'Oréal: Juil 2015- Fév 2016 
+## L'Oréal: Juil 2015- Fév 2016 
 		- Intitulé : Ingénieur Etudes & Développement (Marketing-Data)
 		- Mission
 			- BackEnd: API mobile
@@ -37,7 +37,7 @@
 		- Environnement
 			- Langage: PHP, JS, F#
 			- Framework: Symfony (2.8)
-	## VideDressing: Sept 2014-Juin 2015 
+## VideDressing: Sept 2014-Juin 2015 
 		- Intitulé : Ingénieur Etudes & Développement (E-commerce, mobile)
 		- Mission
 			- Front-End : mobile
@@ -45,7 +45,7 @@
 		- Environnement
 			- langage: php, js
 			- framework: symfony (2.8)
-	## CPAM:  Fév 2014-Sept 2014 
+## CPAM:  Fév 2014-Sept 2014 
 		- Intitulé : Ingénieur Etudes & Développement (Data)
 		- Mission
 			- BackEnd : Data  
@@ -53,7 +53,7 @@
 			- Langage : Java, JS
 			- Framework : Angular (1.2)
 			- PlateForm : Kittle
-	## O2I: juil 2007-jan 2014 
+## O2I: juil 2007-jan 2014 
 		- Intitulé : Ingénieur Etudes & Développement (Industrie Graphique, Média)
 		- Mission
 			- Prestation Client
@@ -61,7 +61,7 @@
 		- Environnement
 			- Language : C++, Java, PHP, JS
 			- PlateForm : VMWare (ESX)
-	## PC-VIP services: sept 2002-juin 2007
+## PC-VIP services: sept 2002-juin 2007
 		- Intitulé : Résponsable Technique (Startup)
 		- Mission
 			- Staffing
@@ -70,7 +70,7 @@
 		- Environnement
 			- Language : Java, PHP, JS
 			- Framework : ZF1/ZF2, Google services.
-	## INRIA: juil 2000-juil 2002
+## INRIA: juil 2000-juil 2002
 		- Intitulé : Enseignant Chercheur (Projet Esprit) 
 		- Mission
 			- Enseignement/Recherche (architecture et optimisation de codes)
