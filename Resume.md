@@ -4,7 +4,8 @@
 	- Data : Extraction de données, Mise en forme graphique, Implémentation Algo
 	- DevOps : Mise en place infrastructure clustérisée Cloud, Intégration/Déploiement continue, Monitoring, outils de support
 	- Architecture : MicroService, Cloud, Cluster
-#Expériences
+
+# Expériences
 ## Voyages-SNCF: sept 2017- juil 2018
 		- Intitulé : Ingénieur Etudes & Développement (Marketing-Data)
 		- Mission
