@@ -1,12 +1,13 @@
 # Civil
 # Compétences 
-	- Managérial
-	- Techniques
-# Expériences
+	- Gestion de projet : Spécification fonctionnelle, Architecture technique, Réalisation, Tests, Validation
+	- Data : Extraction de données, Mise en forme graphique, Implémentation Algo
+	- DevOps : Mise en place infrastructure clustérisée Cloud, Intégration/Déploiement continue, Monitoring, outils de support
+#Expériences
 ## Voyages-SNCF: sept 2017- juil 2018
 		- Intitulé : Ingénieur Etudes & Développement (Marketing-Data)
 		- Mission
-			- Outils de support Data (alerting, intégration continue)
+			- Outils de support Data (alerting)
 			- Tag Manager
 			- Outils d'exploration de données analytiques
 		- Environnement
@@ -35,7 +36,7 @@
 			- BackEnd: API mobile
 			- Data
 		- Environnement
-			- Langage: PHP, JS, F#
+			- Langage: PHP, JS, F#, R
 			- Framework: Symfony (2.8)
 ## VideDressing: Sept 2014-Juin 2015 
 		- Intitulé : Ingénieur Etudes & Développement (E-commerce, mobile)
@@ -50,7 +51,7 @@
 		- Mission
 			- BackEnd : Data  
 		- Environnement
-			- Langage : Java, JS
+			- Langage : Java, JS, Python, R
 			- Framework : Angular (1.2)
 			- PlateForm : Kittle
 ## O2I: juil 2007-jan 2014 
@@ -83,6 +84,7 @@
 	- MHAOTEU: Memory Hierarchy Analysis and Optimization Tools for The End-User (16th IMACS world congress on scientific computation, applied mathematics and simulation, Lausanne Switzerland)
 	- Extended Performance Analysis (Research report INRIA, Projet A3: Advanced analysis to code optimization)
 # Formation
+	- 2017 MOOCS Coursera Data analysis
 	- D.E.A 2000 (L.I.F.O : Laboratoire d'informatique Fondamentale d'Orléans)
 	- M.I.A 1998 (Mastère en Informatique approfondie : Université de Lyon)
 	- B.T.S 1995 (Informaique industrielle, E.S.I.G Lyon)
