@@ -3,7 +3,7 @@
 	- Gestion de projet : Spécification fonctionnelle, Architecture technique, Réalisation, Tests, Validation
 	- Data : Extraction de données, Mise en forme graphique, Implémentation Algo
 	- DevOps : Mise en place infrastructure clustérisée Cloud, Intégration/Déploiement continue, Monitoring, outils de support
-	- Architecture : MicroService, Cloud, Cluster
+	- Architecture : MicroService, Cloud
 
 # Expériences
 ## Voyages-SNCF: juin 2017- juil 2018
@@ -15,8 +15,9 @@
             - Suivi de production (mise en production, monitoring)
 		- Environnement
 			- Cloud (AWS), MicroSevices ,Jenkins, Docker Swarm, Kibana, ElasticSearch, Prometheus , Kubernetes
+            - Mise en place infrastructure de tests
 			- Langages: PHP, JS, Scala, Groovy
-			- Framework: Symfony (2.8/3), NodeJS, Gatling, React, d3.js
+			- Framework: Symfony, NodeJS, Gatling, React, d3.js, Selenium, Protractor
 
 ## Rue du Commerce (Carrefour): Nov 2016- juin 2017
 		- Intitulé : Ingénieur Etudes & Développement (E-commerce, mobile)
@@ -25,30 +26,31 @@
 			- Back-End : MicroServices 
 		- Environnement
 			- Langage: Symfony, JS
-			- Framework: React
+			- Framework: React, Redux, Jest, Webpack
 
 ## France Télévision: Fév 2016- Nov 2016 
 		- Intitulé : Ingénieur Etudes & Développement (Social-Média)
 		- Mission
-			- Social Média realtime pipeline
-			- Outils de gestion des flux média. (Tweet, FaceBook msg)
+			- Mise en place d'un pipeline flux média en temps réel
+            - Outils de gestion et de diffusion des flux
 		- Environnement
-			- Langage: PHP, JS
-			- Framework: Symfony (2.8/3), Angular(2.0)
+			- Langage: PHP, JS 
+			- Framework: Symfony (2.8/3), Angular(2.0), Docker, NodeJs, Tweeter
+              API, FaceBook API, RabbitMQ
 			
 ## L'Oréal: Juil 2015- Fév 2016 
 		- Intitulé : Ingénieur Etudes & Développement (Marketing-Data)
 		- Mission
-			- BackEnd: API mobile
-			- Data
+			- BackEnd d'un outil embarqué d'aide à la vente
+			- Analyse des données et visualisation
 		- Environnement
-			- Langage: PHP, JS, F#
+			- Langage: PHP, JS, F# 
 			- Framework: Symfony (2.8)
 
 ## VideDressing: Sept 2014-Juin 2015 
 		- Intitulé : Ingénieur Etudes & Développement (E-commerce, mobile)
 		- Mission
-			- Front-End : mobile
+			- E-commerce PWA
 			- S.E.O
 		- Environnement
 			- langage: php, js
