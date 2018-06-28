@@ -6,19 +6,19 @@
 	- Architecture : MicroService, Cloud, Cluster
 
 # Expériences
-## Voyages-SNCF: sept 2017- juil 2018
+## Voyages-SNCF: juin 2017- juil 2018
 		- Intitulé : Ingénieur Etudes & Développement (Marketing-Data)
 		- Mission
-			- Outils de support Data (alerting)
 			- Tag Manager
-			- Outils d'exploration de données analytiques
+			- Outils de support Data (alerting, visualisation)
 			- Outils de tracking web
+            - Suivi de production (mise en production, monitoring)
 		- Environnement
-			- Cloud (AWS), MicroSevices ,CI/CD (Jenkins, Docker), Infra interne, Kubernetes, Docker
+			- Cloud (AWS), MicroSevices ,Jenkins, Docker Swarm, Kibana, ElasticSearch, Prometheus , Kubernetes
 			- Langages: PHP, JS, Scala, Groovy
-			- Framework: Symfony (2.8/3), NodeJS, Gatling, React
+			- Framework: Symfony (2.8/3), NodeJS, Gatling, React, d3.js
 
-## Rue du Commerce (Carrefour): Déc 2016- sept 2017
+## Rue du Commerce (Carrefour): Nov 2016- juin 2017
 		- Intitulé : Ingénieur Etudes & Développement (E-commerce, mobile)
 		- Mission
 			- Front-End : tunnel d'achat
@@ -27,7 +27,7 @@
 			- Langage: Symfony, JS
 			- Framework: React
 
-## France Télévision: Fév 2016- Déc 2016 
+## France Télévision: Fév 2016- Nov 2016 
 		- Intitulé : Ingénieur Etudes & Développement (Social-Média)
 		- Mission
 			- Social Média realtime pipeline
