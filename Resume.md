@@ -1,9 +1,9 @@
 # Civil
 # Compétences 
 	- Gestion de projet : Spécification fonctionnelle, Architecture technique, Réalisation, Tests, Validation
-	- Data : Extraction de données, Mise en forme graphique, Implémentation Algo
-	- DevOps : Mise en place infrastructure clustérisée Cloud, Intégration/Déploiement continue, Monitoring, outils de support
-	- Architecture : MicroService, Cloud
+	- Data : Extraction, Visualisation, Implémentation Algo
+	- DevOps : Infrastructure  Cloud (Docker, Kubernetes), Intégration/Déploiement continue(Jenkins, Drone), Monitoring
+    - Support : Documentation, Formation 
 
 # Expériences
 ## Voyages-SNCF: juin 2017- juil 2018
