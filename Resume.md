@@ -6,27 +6,60 @@
     - Support : Documentation, Formation 
 
 # Expériences
-## Voyages-SNCF: juin 2017- juil 2018
+## Igraal : Septembre 2020 - Mai 2022
+  - Intitulé : Ingénieur Etudes & Développement (Marketing - Data)
+  - Mission : 
+    - Refonte du plateforme d'affiliation et cashback (Front et Back)
+    - Consolidation de données
+    - Amélioration continue du processus et de l'architecture
+    - Tests et validation des développements
+  - Environnement : SPA, Microservice, Container, 
+  - Language : PHP, Typescript
+  - Framework : Symfony, React, Chrome, NodeJS, Tableau
+## Sodexo-France: Juillet 2019 - Juin 2020
+    - Intitulé : Ingénieur Etudes & Développement (Monétique - CRM)
+    - Mission :
+      - Consolidation de la gestion et de la sécurité des utilisateurs
+      - Refonte de canal de commande Web
+      - Industrialisation du process de développement
+      - Intégration des flux vers outils tiers
+    - Environnement
+      - Environnement : SPA, Microservice, DDD, TDD, CI/CD, Container (Docker, K8s)
+      - Language : PHP, Javascript, C#
+      - Framework : Gigya (CIAM S.A.P), SalesForce, Symfony, Angular
+## Mullen-Lowe: Aout 2018 - Juin 2019
+    - Intitulé : Ingénieur Etudes & Développement (Marketing - CRM)
+    - Mission :
+      - Réalisation CRM concessionnaire Audi France
+      - Implémentation frontend et backend (SPA - Microservices)
+      - Validation et tests des développement
+      - Amélioration continue de l'architecture
+    - Environnement :
+      - Cloud (AWS), Microservice, Github CI, NodeJS, DDD (domain driven development)
+      - Languages : PHP, Javascript, Groovy, Bash
+      - Framework : Symfony, API Manager, ElasticSearch, BPMN (Business process model & notation), Oauth2 
+
+## OUI-SNCF: juin 2017- juil 2018
 		- Intitulé : Ingénieur Etudes & Développement (Marketing-Data)
-		- Mission
-			- Tag Manager
-			- Outils de support Data (alerting, visualisation)
-			- Outils de tracking web
-            - Suivi de production (mise en production, monitoring)
-		- Environnement
+		- Mission : 
+			- Réalisation d'un Tag Manager
+			- Mise en place d'outils de support Data (alerting, visualisation)
+			- Développement d'outils de tracking web
+            - Suivi de production (mise en production, monitoring, test)
+		- Environnement :
 			- Cloud (AWS), MicroSevices ,Jenkins, Docker Swarm, Kibana, ElasticSearch, Prometheus , Kubernetes
             - Mise en place infrastructure de tests
-			- Langages: PHP, JS, Scala, Groovy
-			- Framework: Symfony, NodeJS, Gatling, React, d3.js, Selenium, Protractor
+			- Langages : PHP, JS, Scala, Groovy
+			- Framework : Symfony, NodeJS, Gatling, React, d3.js, Selenium, Protractor
 
 ## Rue du Commerce (Carrefour): Nov 2016- juin 2017
 		- Intitulé : Ingénieur Etudes & Développement (E-commerce, mobile)
-		- Mission
-			- Front-End : tunnel d'achat
-			- Back-End : MicroServices 
-		- Environnement
-			- Langage: Symfony, JS
-			- Framework: React, Redux, Jest, Webpack
+		- Mission :
+			- Développement du tunnel d'achat (Frontend/Backend)
+			- Développement de services de support (Backend API) 
+		- Environnement :
+			- Langage : Symfony, Javascript
+			- Framework : React, Redux, Jest, Webpack
 
 ## France Télévision: Fév 2016- Nov 2016 
 		- Intitulé : Ingénieur Etudes & Développement (Social-Média)
